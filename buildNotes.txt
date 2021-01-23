@@ -1,0 +1,13 @@
+XmORse Code
+This would be easier to solve if these flashes made actual letters
+
+Module ID: xmorse
+
+Created by Short_c1rcuit
+
+Has TP support
+
+Manual available here: https://ktane.timwi.de/HTML/XmORse%20Code.html
+
+Build 1.0 notes:
+Initial release

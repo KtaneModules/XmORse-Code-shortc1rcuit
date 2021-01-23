@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: xmorse
+  title: XmORse Code
+  author: short_c1rcuit
+  description: "XmORse Code\r\nThis would be easier to solve if these flashes made
+    actual letters\n\r\nModule ID: xmorse\n\r\nCreated by Short_c1rcuit\r\n\r\nHas
+    TP support\n\nManual available here: https://ktane.timwi.de/HTML/XmORse%20Code.html\r\n\r\nBuild
+    1.0 notes:\r\nInitial release"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: a9c2ddcff7a6d9d4bbea2d795629e8dc, type: 3}
