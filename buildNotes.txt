@@ -11,3 +11,6 @@ Manual available here: https://ktane.timwi.de/HTML/XmORse%20Code.html
 
 Build 1.0 notes:
 Initial release
+
+Build 1.1 notes:
+Fixed VR Eyebug
